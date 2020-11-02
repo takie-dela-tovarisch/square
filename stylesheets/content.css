@@ -1,10 +1,10 @@
 article > * { width: 700px; margin: 0 auto;
 }
-article h1, h2, h3 { font-family: 'PT Sans Caption', sans-serif; font-weight: bold;
+article h1, h2, h3 { font-family: 'Jost', sans-serif; font-weight: bold;
 }
 article h1 { padding-top: 80px; padding-bottom: 36px; font-size: 38px; line-height: 45px;
 }
-article h1 + p { margin-top: 8px; font-family: 'PT Sans Caption', sans-serif; font-size: 22px; line-height: 32px; color: rgba(0,0,0,.4);
+article h1 + p { margin-top: 8px; font-family: 'Jost', sans-serif; font-size: 22px; line-height: 32px; color: rgba(0,0,0,.4);
 }
 article h1 + p + p { margin-top: 30px;
 }
