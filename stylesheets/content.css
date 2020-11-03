@@ -49,3 +49,6 @@ article h3 + img { margin-top: 81px;
 article ul {
   list-style-type: disc;
 }
+.bottom {
+  height: 100px;
+}
